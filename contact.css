@@ -1,0 +1,80 @@
+#map {
+    margin-bottom: 60%;
+    
+}
+
+#Head {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border-radius: 140px;
+}
+#Head:hover {
+    box-shadow: 0 0 30px;
+}
+#AddWord h5 { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+#AddWord p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+#call h5 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#call p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+#Email h5 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#Email p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+#AddWord2 h4 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+#AddWord2 h5 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#Hello h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+#Hello p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+#FulltN{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+#Sub {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 50px;
+    text-align: center;
+    background-color: red;
+    border: 5px solid red;
+}
+
+#Sub:hover {
+    background-color: darkred;
+    border-color: darkred;
+    box-shadow:0 0 10px;
+}
