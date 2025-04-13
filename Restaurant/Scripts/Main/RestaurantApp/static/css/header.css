@@ -1,0 +1,57 @@
+#Header h2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#HomeBtn {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+#HomeBtn:hover {
+    background-color: transparent;
+    border-color: none;
+    box-shadow: 0 0 20px;
+}
+
+#AboutPg {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#AboutPg:hover {
+    background-color: transparent;
+    border-color: none;
+    box-shadow: 0 0 20px;
+}
+
+#Category {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#Category:hover {
+    background-color: transparent;
+    border-color: none;
+    box-shadow: 0 0 20px;
+}
+
+#Contact {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#Contact:hover {
+    background-color: transparent;
+    border-color: none;
+    box-shadow: 0 0 20px;
+}

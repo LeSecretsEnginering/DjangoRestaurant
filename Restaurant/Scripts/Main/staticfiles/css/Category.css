@@ -1,0 +1,129 @@
+#Header h3 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+#Steak h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+#Steak p{
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Pasta h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+#Pasta p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#Eggs h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+#Eggs p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#SteakButton {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+#SteakButton:hover {
+    background-color: none;
+    border-color: none;
+    box-shadow: 0 0 20px;
+}
+
+#GrilledChicken {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+#GrilledChicken:hover {
+    background-color: none;
+    border-color: none;
+    box-shadow: 0 0 20px;
+}
+
+#ScrambledEggs {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+#ScrambledEggs:hover {
+    background-color: none;
+    border-radius: none;
+    box-shadow:0 0 20px;
+}
+
+#NewP h2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#shrimp h2 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#salad h2{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Risotto h2{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ShrimpBut {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+#ShrimpBut:hover {
+    background-color: none;
+    border-radius: none;
+    box-shadow: 0 0 20px;
+}
+
+#saladBut {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+#saladBut:hover {
+    background-color: none;
+    border-radius: none;
+    box-shadow: 0 0 20px;
+}
+
+#RisottoBut {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+#RisottoBut:hover {
+    background-color: none;
+    border-radius: none;
+    box-shadow: 0 0 20px;
+}
